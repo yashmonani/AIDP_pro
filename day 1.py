@@ -21,8 +21,11 @@
 
 
 #daily process
+
 #save and commit all changes
 #git add . -> stage
 #git commit -m "first time commit"
 #to use global -for one github accounts and not use global multiple acc
 #commit-my work has been done
+#push the changes to github
+# git push origin main->origin-thing which is presenmt in server,main->bracnh name(bootton left name)
