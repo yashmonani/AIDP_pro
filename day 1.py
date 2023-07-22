@@ -6,7 +6,7 @@
 #data and types
 #built in function for types 
 #control statements
-#conditional
+#conditional 
 #looping
 #comprehensions
 #user defined function
