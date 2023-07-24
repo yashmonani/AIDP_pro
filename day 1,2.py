@@ -17,8 +17,24 @@
 5.Biwise: &,|,~,^(xor),>>(right shift),<<(left s)
 6.Membership: in,not,in
 7.Identity: is,is not
-I
+
+
 #data and types
+1.int(all double , long etc in int and similarly for all )
+2.float
+3.complex-  10+5j
+4.str-      'hi' "hi" '''hi''' """hi"""(creating multiple line string)
+5.list-     [5,9,'hi',5.5] (unstructured, mutable collection of heterogenous data)
+6.tuple-    (5,9,'hi',5.5) (unstructured, immutable collection of heterogenous data)
+7.dict-     {a:5,'a':[,5,6,7]} (structured, mutable collection of key-pairs)
+8.set-      {5,'hi'} (unordered collection of unique items)
+9.bool-     true false
+10.NoneType-None   
+#Concept of Mutability
+
+
+
+
 #built in function for types 
 #control statements
 #conditional 
