@@ -31,7 +31,16 @@
 9.bool-     true false
 10.NoneType-None   
 #Concept of Mutability
-
+works on collections only
+i. Item access
+-indexing/sub-scripting
+-slicing
+ii. Item Insertion
+iii.Item Assignment
+iv.Item Deletion
+1. mutable
+(i)
+2. immutable
 
 
 
